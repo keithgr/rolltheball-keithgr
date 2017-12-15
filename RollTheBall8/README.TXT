@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Roll the Ball
+PURPOSE OF PROJECT: A GUI application of the puzzle game, Roll the Ball.
+VERSION or DATE: 2017-04-19
+HOW TO START THIS PROJECT: Run menu.java with no command line parameters.
+AUTHORS: Keith Grable, Tim Cronin, Julia Dunbar, Martin McBride, Ethan de Bernardo
+USER INSTRUCTIONS: Instructions are in the application
