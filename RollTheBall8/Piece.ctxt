@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=l
+comment0.target=Piece(java.awt.Point)
+comment1.params=l\ entr\ ex\ isF\ hasS
+comment1.target=Piece(java.awt.Point,\ int,\ int,\ boolean,\ boolean)
+comment1.text=\r\n\ @param\ \ \ l\ \ \ The\ location\ of\ the\ piece\ in\ 2D\ space\r\n\ @param\ \ \ entr\ \ \ \ The\ cardinal\ direction\ of\ the\ entry\ opening\r\n\ @param\ \ \ ex\ \ The\ cardinal\ direction\ of\ the\ exit\ opening\r\n\ @param\ \ \ isF\ True\ if\ and\ only\ if\ the\ piece\ is\ fixed\ to\ the\ board\r\n\ @param\ \ \ hasS\ \ \ \ True\ if\ and\ only\ if\ the\ piece\ contains\ a\ collectible\ star\r\n
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+comment4.params=
+comment4.target=void\ setImage()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=o
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=
+comment7.target=int\ hashCode()
+numComments=8

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=menu1\ level
+comment0.target=RollTheBallPanel(menu,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RollTheBallPanel\r\n
+comment1.params=level
+comment1.target=void\ createLevel(int)
+comment10.params=
+comment10.target=int\ getScore()
+comment2.params=
+comment2.target=void\ createPiece()
+comment2.text=\r\n\ createPiece\ (String\ s)\r\n\ \r\n\ Creates\ a\ Piece\ and\ adds\ an\ ActionListener\r\n\ \r\n\ @param\ \ \ String\ s\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=dir
+comment4.target=void\ attemptMovePiece(int)
+comment5.params=hasWon
+comment5.target=void\ setWon(boolean)
+comment6.params=heading
+comment6.target=Piece\ getAdj(int)
+comment6.text=\r\n\ Finds\ the\ piece\ that\ is\ adjacent\ to\ a\ given\ piece\ in\ the\ specified\ direction\r\n\r\n\ @param\ p\ The\ given\ piece\r\n\ @param\ heading\ The\ specified\ direction\r\n\ @return\ The\ piece\ that\ is\ adjacent\ to\ the\ given\ piece,\ or\ null\ if\ the\ piece\ is\ non-existent\ or\ out-of-bounds\r\n
+comment7.params=ptr\ heading
+comment7.target=Piece\ getAdjForCompletePath(Piece,\ int)
+comment8.params=
+comment8.target=void\ refreshPanel()
+comment9.params=
+comment9.target=boolean\ hasCompletePath()
+numComments=11
