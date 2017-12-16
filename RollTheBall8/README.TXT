@@ -1,5 +1,3 @@
-This is a final project for my Object-Oriented Programming course at Siena College.  I worked in a team of five to emulate a popular mobile game, Roll the Ball.
-
 ------------------------------------------------------------------------
 This is the project README file. Here, you should describe your project.
 Tell the reader (someone who does not know anything about this project)
